@@ -31,7 +31,9 @@ After deployment, the software enters the maintenance phase, where it is continu
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.Waterfall methodology uses a linear and sequential approach while agile uses an Iterative and incremental approach.Waterfall has Distinct phases: Planning, Design, Implementation, Testing, Deployment, and Maintenance. Each phase must be completed before the next starts while agile has Continuous cycles of planning, development, testing, and feedback within iterations (sprints).Waterfall is ideal for projects where the requirements are clear, and changes are minimal.Agile is better for dynamic environments where frequent feedback and adaptability are essential.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.a)Software DeveloperRole: Write and maintain code for software applications.Responsibility: Implement features based on project requirements.
+b)Quality Assurance (QA) EngineerRole: Test and ensure software quality.Responsibility: Execute test cases to identify defects.
+c)Project ManagerRole: Oversee and manage the project.Responsibility: Ensure the project stays on schedule and within budget.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
