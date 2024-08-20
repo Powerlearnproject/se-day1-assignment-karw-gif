@@ -44,7 +44,14 @@ What are some common challenges faced by software engineers? Provide strategies 
 3.Balancing Performance with Deadlines: Engineers often face tight deadlines while maintaining high performance and quality in their code.Strategy: Prioritizing tasks, practicing good time management, and using Agile methodologies can help engineers break down work into manageable pieces, ensuring both quality and timely delivery.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.1.Unit Testing:
+Focuses on testing individual components of code in isolation. It ensures that small parts of the software function correctly and helps catch bugs early in development.
+2.Integration Testing:
+Tests the interactions between combined components to ensure they work together as expected. It detects issues related to communication between different modules.
+3.System Testing:
+Evaluates the entire integrated system against requirements to ensure overall functionality. It verifies that the complete system performs correctly in real-world conditions.
+4.Acceptance Testing:
+Performed by end-users to validate that the software meets business needs and is ready for deployment. It confirms that the software satisfies the intended purpose before release.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
