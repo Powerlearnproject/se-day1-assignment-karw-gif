@@ -57,7 +57,7 @@ Performed by end-users to validate that the software meets business needs and is
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.Prompt engineering ensures that interactions with AI models are productive by guiding the AI toward specific outputs. Thoughtful, clear prompts lead to better, more accurate responses, which is especially important when working with complex models that interpret human language.
+Define prompt engineering and discuss its importance in interacting with AI models.Prompt Engineering involves crafting clear, concise, and specific inputs (prompts) to guide AI models to produce accurate, relevant, and desired outputs.Prompt engineering ensures that interactions with AI models are productive by guiding the AI toward specific outputs. Thoughtful, clear prompts lead to better, more accurate responses, which is especially important when working with complex models that interpret human language.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
