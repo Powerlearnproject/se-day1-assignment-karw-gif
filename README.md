@@ -9,7 +9,7 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Identify and describe at least three key milestones in the evolution of software engineering-a)The Introduction of High-Level Programming Languages(1950s):The development of early high-level languages eg FORTRAN (1957) and COBOL (1959) revolutionized programming by enabling developers to write code that was closer to human language than machine code, significantly improving productivity and accessibility.
 2.The Invention of Structured Programming (1960s-1970s):
-Structured programming, popularized by languages like C and Pascal, introduced control structures such as loops, conditionals, and subroutines. This methodical approach to programming made code more readable, maintainable, and less prone to errors.3.The Emergence of Object-Oriented Programming (1980s-1990s):
+Structured programming, popularized by languages like C and Pascal, introduced control structures such as loops, conditionals, and subroutines. This methodical approach to programming made code more readable, maintainable, and less prone to errors.3.The Emergence of Object-Oriented Programming (1980s-1990s):Object-Oriented Programming (OOP), introduced by languages like Smalltalk and C++, marked a major milestone. OOP focuses on using objects and classes to model real-world entities, promoting reusability, modularity, and easier maintenance of code.
 
 
 List and briefly explain the phases of the Software Development Life Cycle-Planning:
