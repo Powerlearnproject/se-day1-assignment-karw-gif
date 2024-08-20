@@ -28,7 +28,7 @@ g)Maintenance:
 After deployment, the software enters the maintenance phase, where it is continuously monitored and updated to fix bugs, improve performance, and add new features as required. This phase ensures the software remains functional and up-to-date over time.
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.Waterfall methodology uses a linear and sequential approach while agile uses an Iterative and incremental approach.Waterfall has Distinct phases: Planning, Design, Implementation, Testing, Deployment, and Maintenance. Each phase must be completed before the next starts while agile has Continuous cycles of planning, development, testing, and feedback within iterations (sprints).Waterfall is ideal for projects where the requirements are clear, and changes are minimal.Agile is better for dynamic environments where frequent feedback and adaptability are essential.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
